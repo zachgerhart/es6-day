@@ -69,7 +69,7 @@ const destructuring = {
 // do not modify
 const vocabAgain = [ "let", "const", "destructuring", "spread", "rest", "arrow function" ];
 
-// using assignment destructuring, create three variables notAVar, alsoNotVar, and everythingElse
+// using assignment destructuring, create three variables notVar, alsoNotVar, and everythingElse
 // notVar should be "let", alsoNotVar should be "const", and everythingElse should contain the rest of the array.
 
 
